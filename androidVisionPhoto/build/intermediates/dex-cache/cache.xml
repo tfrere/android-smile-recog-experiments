@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/fdel-car/AndroidStudioProjects/Android-PlayServices-FaceDetection/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0ce25d493873385bb2f7772e4dfebcb2e6b56851">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/Android-PlayServices-FaceDetection/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5d802cfc7e78f3bde065cf956aeba2ac37944c88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fdel-car/AndroidStudioProjects/Android-PlayServices-FaceDetection/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/Android-PlayServices-FaceDetection/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.1.0_15b15793d20dcf6eb8e0146dcff67364f31e7cf7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fdel-car/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/Android-PlayServices-FaceDetection/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.0_8ea1df548a0ad4aec1feb9d1b1d97a178d7a28d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fdel-car/AndroidStudioProjects/Android-PlayServices-FaceDetection/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/Android-PlayServices-FaceDetection/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.0_04dcc6732bc6e003ca1f30b9acfbcdd6ae4fd118/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fdel-car/AndroidStudioProjects/Android-PlayServices-FaceDetection/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/Android-PlayServices-FaceDetection/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.0_49e7f21ec4ce592306a0e9bbd1aef2d1f432af55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fdel-car/AndroidStudioProjects/Android-PlayServices-FaceDetection/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/Android-PlayServices-FaceDetection/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.1.0_4916eae98f4f510b153161f0190cacdaf9155b2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fdel-car/AndroidStudioProjects/Android-PlayServices-FaceDetection/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1140ff2bfc4ebd80ffdddb93e97b2e02c3bd08a9">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/Android-PlayServices-FaceDetection/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f1c2f818dca26c14f6e84822c9c5a695539d68da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fdel-car/AndroidStudioProjects/Android-PlayServices-FaceDetection/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/Android-PlayServices-FaceDetection/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-8.1.0_0504f7dbe1f43183d32f2710541a6bfa1dee1f45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fdel-car/AndroidStudioProjects/Android-PlayServices-FaceDetection/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/Android-PlayServices-FaceDetection/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.0_f59f7d837f5bbe51947676a2b0e95e87b866d92a/classes.dex" />
+    </item>
+
+</items>

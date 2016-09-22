@@ -3,12 +3,30 @@
 
     <item
         is-multidex="true"
+        jar="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.0_7df9af2c23efdabe7f21456eeaf10eb0f6f79f8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
         <dex dex="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.0_9f3c7cf9440f4846d50d9a1e379f07a4530c874c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_e8f4427dc46c4a6194baa4bf5136f7f6b37a27b8/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -21,6 +39,24 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.4.0_a516cceefaddc55201c80508d79f3b0ef5b67b9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_0b449234f33fe1ea7b303ecdadb0deba2985423e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
         jumboMode="true"
         optimize="true"
@@ -30,21 +66,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/fdel-car/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jar="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
-        <dex dex="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_6c5b425e5d449ac980f92b8105e86a52bc0eff89/classes.dex" />
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_13fa7670779d5b00fbc429c2ef48641119c86b92/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jar="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
-        <dex dex="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_65e44270a588fc0d818c2d75565ded12e47ee160/classes.dex" />
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_d13de4581d05382a496757289af45921219b4302/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -57,21 +93,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
-        <dex dex="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_e30e8db01ce67b0f869572ecbc2d8339cb1314e6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
         <dex dex="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_01a1a1da28a9bae93861fb51741d9d90a81ec9d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_746140105f6a0d2ac719e7e1db42d20ad40b7232/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -93,12 +129,174 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e625fa29bd694dcaa27359b38dfa4894fe06d4d3">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_13fad649e9f6a75c0c9e75f28e73548376965926/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_ea491b4912b5df85e026683d608fdd09f19d9f0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_afc3ef9ced16484ef200ed8fc3e8b641fbe5d2b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_67d51d5b6e34cab9516cdcb49e45a9b0982d47b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_16d642d4fd258b956d6f89e5118ebf8ba0336912/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_b17c60db71f84968ce72c50a38162173f27563a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_e5653418c0eb439cb17cad6110beca2a533710e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_3bd0507587d3d767d3cce4f1027794e613d08e3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_90ce32b3b72cdf98c0c5d4cae5b951eec37117cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_92a39ad5a6530c3539410fd80cf4455840fcc195/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fdel-car/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_6c5b425e5d449ac980f92b8105e86a52bc0eff89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_65e44270a588fc0d818c2d75565ded12e47ee160/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.0_ee0f7f9c205617bccd07dc08c463191b1fd22b0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_e30e8db01ce67b0f869572ecbc2d8339cb1314e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_ccea3760d34266e3a5d62f6a121f85aabc81ee13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
         <dex dex="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_5da85e0158c01cb66eba93a0bc4d2eb3ba708db8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="38768e96d4faa3f8004c1c03bd35ae3150f56898">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_601c87abf9c3b0f7dde1d645f43bd1cb93b19ffa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_8564b7c0f47aef810365c3d4586b20fd7398b7b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eadb8c1f9c8e721256d4651a9e4d1526c9d4f59d">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e7cbc10ff3248fab572c68558a4d3410d2da7f3d/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -111,21 +309,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e625fa29bd694dcaa27359b38dfa4894fe06d4d3">
-        <dex dex="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_13fad649e9f6a75c0c9e75f28e73548376965926/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="fd0d831d391e9dd7209a315fab0c624190120b65">
         <dex dex="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cb7aadb153c9818f5c56df53556e7496ad7d1f13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_c13565aff0da070d83baaa48cb67fb429f375c9f/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -165,21 +363,30 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jar="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
-        <dex dex="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_e5653418c0eb439cb17cad6110beca2a533710e8/classes.dex" />
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_8ded89415a40b83eb42239f699afa4c5c257f7c2/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jar="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
-        <dex dex="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_3bd0507587d3d767d3cce4f1027794e613d08e3b/classes.dex" />
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_c87e4ae849f06fc24c07d38a949fc7e4d7d93745/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/fdel-car/AndroidStudioProjects/androidSmileRecog/androidVisionCamera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_1e0cbf0571ee8c957e9e894cbb63c0c22f06786b/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -198,15 +405,6 @@
         revision="24.0.2"
         sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
         <dex dex="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_56aae88511905483d1565081486ffd8caff8c9a3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
-        <dex dex="/home/fdel-car/AndroidStudioProjects/android-vision/visionSamples/FaceTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_92a39ad5a6530c3539410fd80cf4455840fcc195/classes.dex" />
     </item>
 
 </items>
